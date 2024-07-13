@@ -1,2 +1,2 @@
-# CNN-for-Computer-Vision-Problem
-Different deep learning architecture including transformers in vision problems to detect facial features. 
+# DEEP LEARNING PROJECT IMPLEMENTATION USING PRODUCTION READY ENVIRONMENT
+Using Modular Coding Practices, MLFLOW, DOCKERIZATION and AWS CICD DEPLOYMENT.  
