@@ -12,7 +12,7 @@ Open WSL Command Prompt,Git Clone onto local enviornment, open VScode using code
 ```
 
 ## Template.py
-You can create folders and files using CLI. This Template.py creates creates all folders and file just by running this file
+The Template.py script automates the process of setting up the initial directory and file structure for a project by running it from the command line. It ensures that all necessary folders and files are created, which is particularly useful for setting up a new project quickly and consistently.
 ```bash
 
 https://github.com/RajratanWankhade/CNN-for-Computer-Vision-Problem/blob/main/template.py
