@@ -18,4 +18,13 @@ The Template.py script automates the process of setting up the initial directory
 https://github.com/RajratanWankhade/CNN-for-Computer-Vision-Problem/blob/main/template.py
 ````
 
+## requirements.txt
+Some of the packages, that we are using in this project 
+
+DVC (Data Version Control):  handle data, models, and other large files in machine learning projects. Enables track and manage datasets, models, and experiments without having to include large files directly in Git repository.
+
+tqdm : provids visual feedback during long-running tasks.
+
+
+
 
